@@ -10,6 +10,8 @@
 3. AI 관련 투자 및 AI 사업 구상에 대해 idea 얻기
 
 ## D+1 오늘 한 일
+- 놀고 있던 노트북 꺼내서 window 재설치
+- anaconda, vscode 설치
 - 개발 환경(myenv) 구축
 - GitHub 포트폴리오 저장소 생성
 - 첫 커밋 🎉
